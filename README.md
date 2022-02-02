@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - an electrical student interested in coding with python and machine learning 😃
+ - An electrical student interested in coding with python and machine learning 😃
 
 <!--
 **Nimafalaki/Nimafalaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
